@@ -1,4 +1,3 @@
-A compiler for a funky language. It copilers ".t3ban" files.
 # Why this compiler exists?
 It is a project for CS419 course.
 
